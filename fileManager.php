@@ -59,9 +59,9 @@ if(isset($_SESSION['ftp_User']) && isset($_SESSION['login_details']) && isset($_
         <link rel="stylesheet" href="CSS/kel.css">
         <style>
 			.loader{
-				border: 5px solid #f3f3f3;
+				border: 5px solid #194e9e;
 				border-radius: 50%;
-				border-top: 5px solid #3498db;
+				border-top: 5px solid #3194e9e;
 				width: 30px;
 				height: 30px;
 				-webkit-animation: spin 1s linear infinite; /* Safari */
